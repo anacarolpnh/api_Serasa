@@ -4,7 +4,7 @@ Este projeto trata-se de uma API desenvolvida usando o framework FastApi. A API 
 
 # Instalação
 
-Para esse projeto são utilizado:
+Para esse projeto são utilizados:
 
 Python versão: 3.11.4
 
